@@ -4,7 +4,7 @@
 
 📍 Vinnytsia, Ukraine / Remote (EMEA)  
 💼 Tech Lead @ TEMABIT (Fozzy Group / silpo.ua)  
-📧 [siniidrozd@gmail.com](mailto:siniidrozd@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/dmytro-bilukha) | 🐙 [GitHub](https://github.com/MIt9)
+🔗 [LinkedIn](https://linkedin.com/in/dmytro-bilukha) | 🐙 [GitHub](https://github.com/MIt9)
 
 ---
 
@@ -48,9 +48,4 @@
 ### 🌐 Connect With Me
 
 - 💼 **LinkedIn**: [linkedin.com/in/dmytro-bilukha](https://linkedin.com/in/dmytro-bilukha)
-- 📧 **Email**: [siniidrozd@gmail.com](mailto:siniidrozd@gmail.com)
 - 💬 **Telegram**: [@siniidrozd](https://t.me/siniidrozd)
-
----
-
-> *Creating a public repository named `MIt9` on GitHub and pasting this `README.md` into the root directory will automatically display it on your GitHub profile page.*
